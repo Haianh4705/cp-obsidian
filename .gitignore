@@ -1,0 +1,32 @@
+# =====================
+# Obsidian Vault .gitignore
+# =====================
+
+# Obsidian system files
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/plugins/obsidian-git/data.json
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/plugins/obsidian-excalidraw-plugin/data.json
+
+# Caches
+.obsidian/cache
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/cache
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup/temp files
+~$*
+*.tmp
+*.bak
+*.swp
+
+# Node modules (nếu dùng plugin dev)
+node_modules/
