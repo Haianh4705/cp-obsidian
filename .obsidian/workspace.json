@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "99897bfb28a42191",
+    "type": "split",
+    "children": [
+      {
+        "id": "43fc093a0cce98ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11bc3faa6ba46c29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Buổi 2 - Đệ quy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Buổi 2 - Đệ quy"
+            },
+            "group": "0b18a0128f55b410"
+          }
+        ]
+      },
+      {
+        "id": "0efe8eab1f3ea5a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdb711ef41282666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Buổi 2 - Đệ quy.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Buổi 2 - Đệ quy"
+            },
+            "group": "0b18a0128f55b410"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e15a766da85e721",
+    "type": "split",
+    "children": [
+      {
+        "id": "dde0bcc75abf75d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c274f65ffd16dee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "02ebbba61ba01c6f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "891d402ed97ce3f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8023b657c2ec388a",
+    "type": "split",
+    "children": [
+      {
+        "id": "069129a3f3bf27fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67672bcf2fcb2ca5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Buổi 2 - Đệ quy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Buổi 2 - Đệ quy"
+            }
+          },
+          {
+            "id": "77ff2e7adeebb40e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Buổi 2 - Đệ quy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Buổi 2 - Đệ quy"
+            }
+          },
+          {
+            "id": "e39daf6b68dd4171",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "421c964baedc6408",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Buổi 2 - Đệ quy.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Buổi 2 - Đệ quy"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cdb711ef41282666",
+  "lastOpenFiles": [
+    "Buổi 1 - STL C++.md",
+    "Buổi 2 - Đệ quy.md",
+    "_mẫu/Ghi chú buổi học.md",
+    "Notes/Untitled.md",
+    "_mẫu",
+    "Template.md",
+    "Dashboard.md",
+    "Notes",
+    "Welcome.md"
+  ]
+}
