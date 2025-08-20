@@ -30,13 +30,18 @@ int x, y, cnt = 0;
 void ext_euclid(int a, int b) {
 	if (b == 0) {
 		cnt++;
+		x = 1; y = 0;
 		return;
 	}
 	ext_euclid(b, a%b);
 	cnt++;
-	x[cnt] = y[cnt-1];
-	y[cnt] = x[cnt-1] - y[cnt-1] * (a/b);
+	int tmp = x;
+	x = y;
+	y = tmp - y * (a/b);
 }
 ```
+> *Luôn tìm được cặp x, y thỏa mãn*
+
+Nghịch đảo modulo:
 # 🔗 Link liên quan
 
