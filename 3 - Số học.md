@@ -1,7 +1,7 @@
 # 📅 19/08/2025
 # 📚 Ghi chú
 
-###Số nguyên tố là số >= 2 chỉ có ước là 1 và chính nó
+Số nguyên tố là số >= 2 chỉ có ước là 1 và chính nó
 
 Ước chung lớn nhất của a và b là số lớn nhất là ước của a và b: $(a, b) = g$
 
@@ -21,9 +21,22 @@ for (int i = 2; i*i<n; i++) if (!d[i])
 		d[j] = 1;
 ```
 Euclid mở rộng:
+Tìm cặp $x, y$ thỏa mãn:
 $$
 a \times x + b \times y = (a, b)
 $$
-
+```cpp
+int x, y, cnt = 0;
+void ext_euclid(int a, int b) {
+	if (b == 0) {
+		cnt++;
+		return;
+	}
+	ext_euclid(b, a%b);
+	cnt++;
+	x[cnt] = y[cnt-1];
+	y[cnt] = x[cnt-1] - y[cnt-1] * (a/b);
+}
+```
 # 🔗 Link liên quan
 
